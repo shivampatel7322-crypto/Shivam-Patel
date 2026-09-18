@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="YOUR_PHOTO_URL" width="150" style="border-radius:50%;">
+<img src="<img width="438" height="582" alt="1000020568" src="https://github.com/user-attachments/assets/0036ceb3-1cc8-4afb-a7d0-29cb1e46145e" />
+" width="150" style="border-radius:50%;">
 
 # 👋 Hi, I'm Shivam Patel
 
