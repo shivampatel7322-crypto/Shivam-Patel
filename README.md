@@ -3,7 +3,7 @@
 <img src="<img width="438" height="582" alt="1000020568" src="https://github.com/user-attachments/assets/0036ceb3-1cc8-4afb-a7d0-29cb1e46145e" />
 " width="150" style="border-radius:50%;">
 
-# 👋 Hi, I'm Shivam Patel
+# 👋 Hi, I'm Shivam Verma
 
 ### 💻 IT Student • Frontend Developer • Java DSA • Python & AI
 
@@ -106,7 +106,7 @@ ZENVIQO is a modern e-commerce platform focused on helping users discover produc
 
 <div align="center">
 
-<a href="https://zenviqo.vercel.app/">
+<a href="zenviqo.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-2563EB?style=for-the-badge"/>
 </a>
 
